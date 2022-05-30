@@ -11,7 +11,8 @@
 9. Extrair nova tabela de dados;
 10. Criado um novo for na nova tabela;
 11. Criado uma variável para retornar a página;
-12. 
-13. 
-14. 
+12. Extrair dados a serem salvos no excel;
+13. Transformar em string;
+14. Abrir scope excel;
+15. inserir dados;
 "# roit_teste" 
