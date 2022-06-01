@@ -15,5 +15,7 @@
 13. Transformar em string;
 14. Abrir scope excel;
 15. inserir dados;
+16. Criado script python para tratar os dados;
+17. Salvar os dados tratados;
 
 "# roit_teste" 
